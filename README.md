@@ -2,7 +2,7 @@
 
 **`Estudante em Ciência da Computação`**
 
-Me chamo Caio Gabriel, tenho 22 anos e sou natural de Maceió-AL. Atualmente, estou cursando Ciências da Computação na UNIMA - AFYA. Sou apaixonado por tecnologia e inovação, e estou sempre estudando novas tecnologias para aprimorar minhas habilidades. Acredito no poder da colaboração e do aprendizado contínuo para o crescimento pessoal e profissional. Neste perfil, você encontrará meus projetos e contribuições, refletindo minha jornada como desenvolvedor.
+Me chamo Caio Gabriel, tenho 23 anos e sou natural de Maceió-AL. Atualmente, estou cursando Ciências da Computação na UNIMA - AFYA. Sou apaixonado por tecnologia e inovação, e estou sempre estudando novas tecnologias para aprimorar minhas habilidades. Acredito no poder da colaboração e do aprendizado contínuo para o crescimento pessoal e profissional. Neste perfil, você encontrará meus projetos e contribuições, refletindo minha jornada como desenvolvedor.
 
 
 ---
