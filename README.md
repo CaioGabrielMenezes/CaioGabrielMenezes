@@ -8,13 +8,13 @@
 
 ---
 
-### 👋 Sobre mim
+### Sobre mim
 
 Estudante de Ciência da Computação na **UNIMA-AFYA**, cursando o 8º período, com formatura prevista para **julho de 2027**. Gosto de construir aplicações web de ponta a ponta — do front-end à integração com banco de dados — e de usar IA no fluxo de desenvolvimento para construir mais rápido e com mais qualidade.
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 **Linguagens**
 
@@ -37,8 +37,7 @@ Estudante de Ciência da Computação na **UNIMA-AFYA**, cursando o 8º período
 
 **IA & Desenvolvimento assistido**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Ferramentas**
@@ -49,7 +48,7 @@ Estudante de Ciência da Computação na **UNIMA-AFYA**, cursando o 8º período
 
 ---
 
-### 📌 Projetos em destaque
+### Projetos em destaque
 
 > Projetos construídos em equipe. Os repositórios ficam nas contas dos colegas responsáveis — abaixo descrevo a minha contribuição em cada um.
 
@@ -59,15 +58,15 @@ Aplicação web de avaliação de risco. **Minha contribuição:** tela de login
 **[Sistema de Gestão de Filas](https://github.com/CaioRenatoDot/Sistema_De_Gestao_de_Filas)** · `Next.js` `NestJS` `PostgreSQL` `Prisma` `Socket.IO`
 Sistema de gestão e otimização de filas para atendimento em clínicas-escola (projeto em grupo, com Spec-Driven Development). **Minha contribuição:** front-end do módulo de acesso, cadastros e triagem, além de wireframes e documentação de requisitos.
 
-**[Forecasting Website](https://github.com/CaioRenatoDot/ForecastingWebsite)** · `React`
-Aplicação de previsão do tempo, desenvolvida na disciplina de IHC (Interação Humano-Computador). **Minha contribuição:** desenvolvimento front-end em dupla. _(me confirme a stack e detalhes do seu papel)_
+**[Forecasting Website](https://github.com/CaioRenatoDot/ForecastingWebsite)** · `React` `Vite` `Tailwind CSS` `OpenWeatherMap API`
+Aplicação de previsão do tempo com busca por cidade, cidades salvas e previsão de vários dias, desenvolvida na disciplina de IHC a partir de um design no Figma. **Minha contribuição:** adaptação das telas — implementação da interface a partir do layout do Figma.
 
-**[Something About Books](https://github.com/luzonni/somethingaboutbooks)**
-Site de busca de livros, com página de informações para cada título. **Minha contribuição:** _(me confirme qual foi o seu papel neste projeto e a stack usada)_
+**[Something About Books](https://github.com/luzonni/somethingaboutbooks)** · `React` `Vite` `styled-components` `Google Books API` `Open Library API`
+Projeto de Engenharia de Software: site para buscar livros, organizar estantes de leitura e manter o hábito de ler, com reviews, metas e Pomodoro. **Minha contribuição:** colaboração geral no projeto; mais recentemente, trabalhando na adaptação da nova integração com a API do Google Books.
 
 ---
 
-### 📊 Minhas estatísticas
+### Minhas estatísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CaioGabrielMenezes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -76,8 +75,8 @@ Site de busca de livros, com página de informações para cada título. **Minha
 
 ---
 
-### 📫 Contato
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cgmenezes)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-2C5364?style=for-the-badge&logo=vercel&logoColor=white)](https://caiogabriel-dev.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiogpmc@gmail.com)
